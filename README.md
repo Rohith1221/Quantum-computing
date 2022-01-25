@@ -1,2 +1,2 @@
 ### Quantum-computing 
-sharing what i have learnt here
+sharing what I have learned here 
